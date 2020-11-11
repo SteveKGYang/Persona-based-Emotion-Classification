@@ -1,0 +1,1 @@
+neutral	joy	sadness	anger	out-of-domain

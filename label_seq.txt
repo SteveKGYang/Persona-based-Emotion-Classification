@@ -1,0 +1,1 @@
+Neutral	Joyful	Sad	Mad	Out-Of-Domain
